@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="/searh?">
+    <div><label for="username">username: </label>
+        <input type="text" id="username" placeholder="Type your username ">
+    </div>
+    <div>
+        <label for="Password">Enter your Password: </label>
+        <input type="password" id="username" placeholder="Type your Password ">
+    </div>
+    <br>
+    <button>submit</button>
+    <button type="menu">mac</button>
+    <input type="text" id="username" placeholder="username" name="username"/>
+    </form>
+    <form action="https://www.youtube.com/results?">
+        <label for="search">youtube search</label>+
+        <input type="text" id="search" placeholder="search here" name="search_query"/>
+    </form>
+    <form action="https://www.google.com/search?q=poskfk&sca_esv=09a6a96809512032&source=hp&ei=KA3gZZXTNbXR2roPiZi9iA0&iflsig=ANes7DEAAAAAZeAbOE6TOLmvmu2aD6asTHgDFUqaYxWd&ved=0ahUKEwiVh7SG4M-EAxW1qFYBHQlMD9EQ4dUDCBY&uact=5&oq=poskfk&gs_lp=Egdnd3Mtd2l6IgZwb3NrZmsyBxAAGIAEGA0yBxAuGA0YgAQyBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA0yBxAAGIAEGA1IqjtQAFjxM3AEeACQAQCYAfkCoAG2D6oBBzAuNS4zLjG4AQPIAQD4AQGYAg2gAv0PqAIKwgILEC4YgwEYsQMYgATCAgsQABiABBixAxiDAcICCBAAGIAEGLEDwgIOEAAYgAQYigUYsQMYgwHCAgsQLhiABBixAxiDAcICERAuGIAEGLEDGIMBGMcBGNEDwgIEEAAYA8ICBRAAGIAEwgIQEC4YAxiPARjlAhjqAhiMA8ICEBAAGAMYjwEY5QIY6gIYjAPCAg4QLhiABBiKBRixAxiDAcICFBAuGIAEGLEDGIMBGMkDGMcBGNEDwgILEAAYgAQYigUYkgPCAhMQLhgKGIMBGMcBGLEDGNEDGIAEwgIKEAAYgAQYChixA8ICBxAAGIAEGArCAg0QLhiABBgKGMcBGK8BwgILEC4YgAQYxwEYrwHCAhkQLhiABBgNGLEDGIMBGLEDGIMBGMcBGNE
+    DwgIKEAAYgAQYDRixA8ICDRAAGIAEGA0YsQMYgwHCAhMQABiABBgNGLEDGIMBGLEDGIMBmAMFkgcHNC4zLjUuMQ&sclient=gws-wiz">
+    <label for="googlesearh">google</label>
+    <input type="text" id="googlesearh" placeholder="search here" name="q">
+    <button>submit</button></form>
+    <form>
+    <label for="check">I am 18 yrs old</label>
+    <input type="checkbox" id="check" name="age"/>                                                                                                                  
+    <button>submit</button>
+</form>
+</body>
+</html>
