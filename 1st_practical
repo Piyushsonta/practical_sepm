@@ -1,1 +1,46 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+</head>
+<body>
+    <header><h1>Portfolio</h1> 
+        <hr></header>
+   
+   <h2>PERSONAL INFORMATION</h2>
+   <hr>
+   
+    <p><b><ul><li>Name - Piyush V. Sontakke</li>
+         <li>Address - Ramnagar , Sindhi colony , chandrapur - 442401</li>
+         <li>Cast - N.T </li>
+         <li>Catogary - Lohar</li></ul> 
+    </b></p></section>
+    <hr>
+   <section><h2>Education Details</h2>
+    <p><b><ul>
+     <li> College - Priyadarshi j.l collge of Engineering </li>
+     <li> Degree - Computer Science and Engineering</li>
+    </ul></b></p></section>
+    <hr>
+   <section><h2>Skills</h2>
+    <p><b><ul>
+     <li>Full Stack Web Devlopment </li>
+     <li>Mern Stack </li>
+     <li>Java With Dsa</li>
+     <li>Video Editing </li>
+     <hr>
+    
+    <section><h2>Hobby</h2>
+     <p><b><ul>
+      <li> Playing Badmintion </li>
+      <li> Doing videography/cenamatic shooting outdoors</li>
+      <li> playing Football</li>
+      <li> playing Video Games in Pc</li>
+      </ul></b></p></section>
+        <hr>
+    
+   
+</body>
+</html>
