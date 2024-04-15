@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Practice</title>
+</head>
+<body>
+    <form action="/server?">
+   <label for="fruit">apple</label>
+   <input type="checkbox" id=" fruit" name="apple" />
+   <label for="fruit">mango</label>
+   <input type="checkbox" id=" fruit" name="mango" />
+   <label for="fruit">orange</label>
+   <input type="checkbox" id="fruit" name="orange" /> 
+   <button>submit</button>
+</form>
+<form>
+    <label for="profession">Select your profession</label>
+    <select name="profession" id="profession">
+        <option value="error"><b>select your field</b></option>
+        <option value="student">student</option>
+        <option value="teacher">Teacher</option>
+        <option value="engineer">Engineering</option>
+        <option value="driver">Driver</option>
+    </select>
+    
+    <label for="volume">volume</label>
+    <input type="range" id="volume" min="5" max="100" step="5" />
+    <button>submit</button>
+</form>
+</body>
+</html>
